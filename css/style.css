@@ -12,7 +12,8 @@ body {
 }
 
 header {
-    background-image: url("/img/img-topo.jpg");
+    /* background-image: url("/img/img-topo.jpg"); */
+    background-color: var(--dark);
     height: 50vh;
 }
 
